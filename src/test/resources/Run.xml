@@ -1,0 +1,8 @@
+<suite name="OrangeHRMLive Project">
+    <parameter name="browser" value="Chrome"/>
+    <test name="OrangeHRMLive">
+        <classes>
+            <class name="TestRunners.Runner"/>
+        </classes>
+    </test>
+</suite>
