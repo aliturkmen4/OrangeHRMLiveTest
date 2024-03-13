@@ -31,3 +31,15 @@
     Examples:
       |username       ||password    |
       |Admin          ||admin123    |
+
+  @ChangeUsername
+    Scenario: Change the username and save it
+      Given User at home page
+      When Write correct "<username>" for username field
+      When Write correct "<password>" for password field
+      When Click login button
+      When Click the My Info area
+      When Change the employee name and surname
+      When Save the changes
+      Then Check the username area
+
