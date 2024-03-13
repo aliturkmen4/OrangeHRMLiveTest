@@ -5,7 +5,6 @@ import Utils.DriverFactory;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
 public class LoginPageStepDefinitons {
@@ -56,6 +55,7 @@ public class LoginPageStepDefinitons {
     public void checkTheUrlToUnderstandSuccessLogin() {
         loginPage.checkTheUrlToUnderstandSuccessLogin();
     }
+
 }
 
 
