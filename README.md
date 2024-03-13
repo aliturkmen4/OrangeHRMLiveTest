@@ -52,4 +52,4 @@ Selenium WebDriver, Cucumber BDD, TestNG
   
 ## Demo
 ![onlinehrm](https://github.com/aliturkmen4/OrangeHRMLiveTest/assets/84051961/98ba4bde-eecf-4a25-9535-c88ea01625ad)
-**Yapılan Login Testlerinin Demosu**
+**Yapılan Testlerin Demosu**
