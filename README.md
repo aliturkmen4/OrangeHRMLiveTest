@@ -1,4 +1,4 @@
-# OrangeHRMlive Website Login & Dashboard Tests
+# OrangeHRMLive Website Login & Dashboard Tests
 
 ## Test Scenarios and Test Cases
 ```
