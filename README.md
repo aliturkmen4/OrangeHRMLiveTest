@@ -1,8 +1,8 @@
 # OrangeHRMlive Website Login & Dashboard Tests
 
 ## Test Scenarios and Test Cases
-
-  @AllEmpty
+```
+   @AllEmpty
   Scenario Outline:Empty username & Empty password
     Given User at home page
     When Click login button
@@ -43,7 +43,7 @@
       When Change the employee name and surname
       When Save the changes
       Then Check the username area
-        
+```      
 
 ## Used Technologies
 
